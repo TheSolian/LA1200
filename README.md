@@ -17,7 +17,7 @@ You can write parameters like strings or integers after the Name into the bracke
 
 In the brackets below the function comes the code.
 
-![function](function.PNG)
+![Function](https://user-images.githubusercontent.com/89124854/134316183-2adcf9d8-9608-459f-b1b0-0fbe755501e4.PNG)
 
 ## Why use a function?
 
