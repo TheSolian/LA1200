@@ -25,6 +25,8 @@ When you have parts of your code which repeats often, it's smart when you use a 
 
 ## Demonstration of a function.
 
+<a href="https://user-images.githubusercontent.com/89124854/134319729-53259cb9-65cf-4f5c-bcfd-79226de59dca.mp4" title="Demonstration"><img src="{image-url}" alt="Demonstration" /></a>
+
 
 You can see that the program is jump to the function when it reaches the call of the function.
 
